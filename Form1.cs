@@ -1,7 +1,9 @@
+using PowerLogic;
 using System;
+using System.Diagnostics;
+using System.Globalization;
 using System.Windows.Forms;
-using PowerLogic; 
-namespace lab_3
+namespace lab3
 {
     public partial class Form1 : Form
     {
@@ -13,6 +15,10 @@ namespace lab_3
             txtResult.ReadOnly = true;
             txtResult.Multiline = true;
             txtResult.ScrollBars = ScrollBars.Vertical;
+
+            CultureInfo.CurrentCulture = new CultureInfo("ru-RU");
+            CultureInfo.CurrentUICulture = new CultureInfo("ru-RU");
+
         }
 
         private void btnCalculate_Click(object sender, EventArgs e)
@@ -33,13 +39,16 @@ namespace lab_3
 
                 // 4. Вывод сравнительной статистики
                 lblNaiveOps.Text = $"Операций: {naive.Ops}";
-                lblNaiveTime.Text = $"Тиков: {naive.Ticks}";
+                //lblNaiveTime.Text = $"Тиков: {naive.Ticks}";
+
+                lblNaiveTime.Text = $"Время: {naive.Ticks / (double)Stopwatch.Frequency * 1000:F3} мс";
+                lblFastTime.Text = $"Время: {fast.Ticks / (double)Stopwatch.Frequency * 1000:F3} мс";
 
                 lblFastOps.Text = $"Операций: {fast.Ops}";
-                lblFastTime.Text = $"Тиков: {fast.Ticks}";
+                //lblFastTime.Text = $"Тиков: {fast.Ticks}";
 
                 // Подсветка эффективности (опционально)
-                lblFastOps.ForeColor = (fast.Ops < naive.Ops) ? System.Drawing.Color.Green : System.Drawing.Color.Black;
+                // lblFastOps.ForeColor = (fast.Ops < naive.Ops) ? System.Drawing.Color.Green : System.Drawing.Color.Black;
             }
             catch (FormatException)
             {
@@ -54,6 +63,32 @@ namespace lab_3
             {
                 MessageBox.Show($"Произошла непредвиденная ошибка: {ex.Message}");
             }
+        }
+
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+        private void lblNaiveOps_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblNaiveTime_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 newForm = new Form2();
+            newForm.Show();
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
