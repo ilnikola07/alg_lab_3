@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace lab_3.Properties {
+namespace lab3.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace lab_3.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("lab_3.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("lab3.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,9 @@ namespace lab_3.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap istockphoto_1387785129_612x612 {
+        internal static System.Drawing.Bitmap pngtree_black_background_with_numbers_image_934120 {
             get {
-                object obj = ResourceManager.GetObject("istockphoto-1387785129-612x612", resourceCulture);
+                object obj = ResourceManager.GetObject("pngtree-black-background-with-numbers-image_934120", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace lab_3.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap istockphoto_1387785129_612x6121 {
+        internal static System.Drawing.Bitmap pngtree_black_background_with_numbers_image_9341201 {
             get {
-                object obj = ResourceManager.GetObject("istockphoto-1387785129-612x6121", resourceCulture);
+                object obj = ResourceManager.GetObject("pngtree-black-background-with-numbers-image_9341201", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -117,4 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>По 9 варианту было дано следующее задание:
+Реализовать возведение числа в степень: наивным методом 
+и методом быстрого возведения. Входные данные: основание 
+от -100 до 100, показатель степени от 0 до 30. 
+Сравнить по времени и количеству операций умножения.</value>
+  </data>
 </root>

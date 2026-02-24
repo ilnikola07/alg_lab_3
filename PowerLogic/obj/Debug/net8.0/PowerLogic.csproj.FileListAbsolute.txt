@@ -1,0 +1,22 @@
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\bin\Debug\net8.0\PowerLogic.deps.json
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\bin\Debug\net8.0\PowerLogic.dll
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\bin\Debug\net8.0\PowerLogic.pdb
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.AssemblyInfoInputs.cache
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.AssemblyInfo.cs
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.csproj.CoreCompileInputs.cache
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.dll
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\refint\PowerLogic.dll
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.pdb
+C:\Users\111\Desktop\1 курс\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\ref\PowerLogic.dll
+J:\term2\alg_lab\lab3\PowerLogic\bin\Debug\net8.0\PowerLogic.deps.json
+J:\term2\alg_lab\lab3\PowerLogic\bin\Debug\net8.0\PowerLogic.dll
+J:\term2\alg_lab\lab3\PowerLogic\bin\Debug\net8.0\PowerLogic.pdb
+J:\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.GeneratedMSBuildEditorConfig.editorconfig
+J:\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.AssemblyInfoInputs.cache
+J:\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.AssemblyInfo.cs
+J:\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.csproj.CoreCompileInputs.cache
+J:\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.dll
+J:\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\refint\PowerLogic.dll
+J:\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\PowerLogic.pdb
+J:\term2\alg_lab\lab3\PowerLogic\obj\Debug\net8.0\ref\PowerLogic.dll
