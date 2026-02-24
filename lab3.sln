@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3", "lab3.csproj", "{8F733FD4-8AB5-4A0B-97EA-BA0F8B90A766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerLogic", "PowerLogic\PowerLogic.csproj", "{6B337DD9-E1A8-4B5C-9FD8-76761607286D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalc", "..\TestCalc\TestCalc.csproj", "{FB3B097F-8490-4227-8F95-3060785EDAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F733FD4-8AB5-4A0B-97EA-BA0F8B90A766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F733FD4-8AB5-4A0B-97EA-BA0F8B90A766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F733FD4-8AB5-4A0B-97EA-BA0F8B90A766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F733FD4-8AB5-4A0B-97EA-BA0F8B90A766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B337DD9-E1A8-4B5C-9FD8-76761607286D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B337DD9-E1A8-4B5C-9FD8-76761607286D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B337DD9-E1A8-4B5C-9FD8-76761607286D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B337DD9-E1A8-4B5C-9FD8-76761607286D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB3B097F-8490-4227-8F95-3060785EDAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3B097F-8490-4227-8F95-3060785EDAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3B097F-8490-4227-8F95-3060785EDAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3B097F-8490-4227-8F95-3060785EDAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8658208D-CCA6-45D0-B11F-DD57AF774AA2}
+	EndGlobalSection
+EndGlobal
