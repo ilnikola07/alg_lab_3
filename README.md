@@ -8,6 +8,8 @@
 
 
 **✨ Основные возможности**
+
+
 Графический интерфейс (WinForms): Удобная форма для ввода основания и показателя степени.
 
 
@@ -47,7 +49,7 @@ UI Framework: Windows Forms (WinForms)
 1. Получение исходного кода
 Склонируйте репозиторий или загрузите архив с исходным кодом:
 ```bash
-git clone <https://github.com/ilnikola07/alg_lab_3>
+git clone <https://github.com/ilnikola07/alg_lab_3>```
 
 
 2. Структура каталогов
